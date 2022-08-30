@@ -19,6 +19,6 @@
 
 
 [![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch)](https://github.com/anuraghazra/github-readme-stats)
-![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true&show_icons=true&theme=radical)
+![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true&show_icons=true&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
