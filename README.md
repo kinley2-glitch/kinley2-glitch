@@ -10,6 +10,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinley-rabgay-0767931b9/)
@@ -18,4 +19,6 @@
 
 
 [![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch)](https://github.com/anuraghazra/github-readme-stats)
-![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true)
+![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
