@@ -8,6 +8,7 @@
 - :⚡️ Fun fact: I like reading books and listening to music
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinley2-glitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
