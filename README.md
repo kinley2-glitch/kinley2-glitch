@@ -1,12 +1,6 @@
 # Hi, I'm kinley2-glitch! 👋
 
-👩‍💻 I'm currently working on gesture recognition
-
-🧠 I'm currently learning deep learning
-
 👯‍♀️ I'm looking to collaborate on open source
-
-🤔 I'm looking for help with code optimization
 
 ⚡️ Fun fact: I like reading books and listening to music
 
