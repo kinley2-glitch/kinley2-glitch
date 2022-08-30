@@ -8,8 +8,6 @@
 
 🤔 I'm looking for help with code optimization
 
-💬 Ask me about anything
-
 ⚡️ Fun fact: I like reading books and listening to music
 
 
