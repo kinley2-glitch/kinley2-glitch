@@ -19,4 +19,3 @@
 
 ![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true&show_icons=true&theme=dracula)
 
-
