@@ -17,6 +17,6 @@
 [![portfolio](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kinley_120801/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kinley_120801)
 
-[![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true&show_icons=true&theme=dracula)
+[![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
