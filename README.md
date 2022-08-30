@@ -8,6 +8,7 @@
 - :⚡️ Fun fact: I like reading books and listening to music
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+## fire Stats
 [![kinley2-glitch Streak](https://github-readme-streak-stats.herokuapp.com?user=kinley2-glitch&theme=vue-dark)](https://git.io/streak-stats)
 [![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
