@@ -16,10 +16,4 @@
 [![portfolio](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kinley_120801/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kinley_120801)
 
-## :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinley2-glitch&compact&theme=vision-friendly-dark)]
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kinley2-glitch&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-(https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
