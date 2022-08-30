@@ -8,4 +8,3 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/kinley_120801/)
 - 😄 Pronouns: Kin-ley
 - ⚡ Fun fact: I love reading books, and listening musics
--->
