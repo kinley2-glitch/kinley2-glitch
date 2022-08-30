@@ -1,13 +1,17 @@
-## Hi, I'm kinley2-glitch! 👋
+# Hi, I'm kinley2-glitch! 👋
 
-- 🔭 I’m currently working on gesture recognition system
-- 🌱 I’m currently learning coding
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with code optimization
-- 💬 Ask me about nothing
-- 📫 How to reach me: [Instagram](https://www.instagram.com/kinley_120801/)
-- 😄 Pronouns: Kin-ley
-- ⚡ Fun fact: I love reading books, and listening musics
+👩‍💻 I'm currently working on gesture recognition
+
+🧠 I'm currently learning deep learning
+
+👯‍♀️ I'm looking to collaborate on open source
+
+🤔 I'm looking for help with code optimization
+
+💬 Ask me about anything
+
+⚡️ Fun fact: I like reading books and listening to music
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinley-rabgay-0767931b9/)
