@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm kinley2-glitch! 👋
 
 - 🔭 I’m currently working on gesture recognition system
 - 🌱 I’m currently learning coding
