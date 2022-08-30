@@ -16,5 +16,6 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kinley_120801)
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=kinley2-glitch
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kinley2-glitch&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinley2-glitch)](https://github.com/anuraghazra/github-readme-stats)
