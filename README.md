@@ -8,9 +8,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-👯‍♀️ I'm looking to collaborate on open source
+- :👯‍♀️ I'm looking to collaborate on open source
 
-⚡️ Fun fact: I like reading books and listening to music
+- :⚡️ Fun fact: I like reading books and listening to music
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
