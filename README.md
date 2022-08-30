@@ -18,4 +18,4 @@
 
 
 [![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch)](https://github.com/anuraghazra/github-readme-stats)
-![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![kinley2-glitch GitHub stats](https://github-readme-stats.vercel.app/api?username=kinley2-glitch&count_private=true)
